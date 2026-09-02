@@ -134,7 +134,7 @@ Semantic Retrieval
 Relevant Context
     │
     ▼
-LLM
+   LLM
     │
     ▼
 Grounded Response
