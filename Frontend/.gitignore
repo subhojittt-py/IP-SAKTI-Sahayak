@@ -1,2 +1,10 @@
-dist
-node_modules
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.vite/
